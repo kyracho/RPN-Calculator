@@ -1,5 +1,5 @@
 # RPN Calculator (watchOS)
-<img width="241" alt="logo" src="https://github.com/user-attachments/assets/aba9b333-1f82-44fa-9be3-2f090a52dc73">
+
 <img width="241" alt="Screenshot 2024-08-26 at 5 48 21 PM" src="https://github.com/user-attachments/assets/7d516a9f-c965-41d0-9f14-a9365871d119">
 
 The RPN Calculator app is a streamlined tool designed for performing simple calculations using Reverse Polish Notation (RPN) on your Apple Watch. 
