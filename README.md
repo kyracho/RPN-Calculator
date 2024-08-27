@@ -8,4 +8,4 @@ Perform calculations using Reverse Polish Notation (RPN) on your Apple Watch.
 
 "Clear" clears the current input and the stack.
 
-"Del" clears the most recent digit from the current input.
+"Del" clears the right most digit from the current input.
