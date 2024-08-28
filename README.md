@@ -6,7 +6,7 @@ After creating this app, I found out there are existing RPN calculator apps for 
 
 For that reason, you probably won't find this specific app on the Apple store. 
 
-I hope you can still appreciate its simplicity and usefulness :) 
+You can still enjoy the app by cloning the repository locally and building it to your Apple watch via Xcode :) 
 
 <img width="245" alt="Screenshot 2024-08-26 at 6 16 19 PM" src="https://github.com/user-attachments/assets/36d1f15d-f0f8-4cc9-993e-174877eac56a">
 
