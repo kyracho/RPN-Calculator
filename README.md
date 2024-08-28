@@ -6,7 +6,7 @@ After creating this app, I discovered that there are already existing RPN calcul
 
 For that reason, you probably won't find this specific app on the Apple Store. 
 
-You can still enjoy the app by forking the repository, cloning it, and building it on your Apple Watch via Xcode :)
+You can still enjoy the app by forking the repository, cloning it, and building it on your Apple Watch via Xcode.
 
 <img width="245" alt="Screenshot 2024-08-26 at 6 16 19 PM" src="https://github.com/user-attachments/assets/36d1f15d-f0f8-4cc9-993e-174877eac56a">
 
