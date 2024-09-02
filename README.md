@@ -1,8 +1,6 @@
 # RPN-Calculator
 
-Perform calculations using Reverse Polish Notation (RPN) on your Apple watch.
-
-After creating this app, I discovered that there are already existing RPN calculator apps for the Apple Watch. 
+After creating this RPN calculator, I discovered that there are already existing RPN calculator apps for the Apple Watch. 
 
 For that reason, you probably won't find this specific app on the Apple Store. 
 
