@@ -10,9 +10,9 @@ Hello, welcome. I hope you will enjoy it here.
 
 "Del" clears the right most digit from the current input.
 
-A arithmetic operator operates on the last two numbers in the stack and replaces them with the resulting number. 
+An arithmetic operator operates on the last two numbers in the stack and replaces them with the resulting number. 
 
-It is relatively intuitive to use, once you get the hang of it.
+The RPN calculator is intuitive to use and simple to code. 
 
 ___
 After creating this RPN calculator, I discovered that there are already existing RPN calculator apps for the Apple Watch. 
