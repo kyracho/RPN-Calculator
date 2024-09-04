@@ -10,7 +10,7 @@ After coding this RPN calculator, I discovered that there are already existing R
 
 - "Push" adds the current input onto the stack.
 - "Clear" clears the current input and the stack.
-- "Del" clears the right most digit from the current input.
+- "Del" clears the most recent digit from the current input.
 - "+", "-", "*", and "/" operate on the last two numbers in the stack and replace them with the resulting number. 
 
  You can enjoy the app by forking the repository, cloning it, and building it on your Apple Watch via Xcode. 
