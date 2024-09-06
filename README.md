@@ -13,4 +13,10 @@ After coding this RPN calculator, I discovered that there are already existing R
 - "Del" clears the most recent digit from the current input.
 - "+", "-", "*", and "/" operate on the last two numbers in the stack and replace them with the result. 
 
- You can enjoy the app by forking the repository, cloning it, and building it on your Apple Watch via Xcode. 
+___
+To build this app on your own Apple Watch:
+- Step 1: Clone the repository locally.
+- Step 2: Open the project in Xcode.
+- Step 3: Ensure the `RPN.png` file is in `RPN Calculator Watch App/Assets/Applconset`.
+- Step 4: Select your device from the dropdown menu and start the active scheme.
+- Step 5: Enjoy!
