@@ -16,7 +16,7 @@ After coding this RPN calculator, I discovered that there are already existing R
 ___
 ### Build the RPN Calculator Watch App on Your Own Apple Watch
 
-Follow these steps to build and run the **RPN Calculator** app on your Apple Watch.
+Follow these steps to build and run my **RPN Calculator** app on your Apple Watch.
 
 #### Step 1: Clone the Repository Locally
 First, clone the repository to your local machine:
