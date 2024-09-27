@@ -103,6 +103,7 @@ struct ContentView: View {
                     }
                     .buttonStyle(PlainButtonStyle())
                 }
+                
                 Button(action: {
                     stack.removeAll()
                 }) {
